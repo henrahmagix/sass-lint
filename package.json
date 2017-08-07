@@ -34,7 +34,7 @@
     "fs-extra": "^1.0.0",
     "glob": "^7.0.0",
     "globule": "^1.0.0",
-    "gonzales-pe": "git://github.com/tonyganch/gonzales-pe.git#ab24a90faf070bc7fa0ad28b3cc63849c4d3f6bc",
+    "gonzales-pe": "git://github.com/henrahmagix/gonzales-pe.git#fe46f6f3982acfa3204d058450e35d4150a64cc9",
     "js-yaml": "^3.5.4",
     "lodash.capitalize": "^4.1.0",
     "lodash.kebabcase": "^4.0.0",
